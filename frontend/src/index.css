@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: #f4f1ea;
+  color: #1f1a17;
+}
+
+main {
+  max-width: 28rem;
+  margin: 4rem auto;
+  padding: 0 1.25rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.total {
+  margin-top: 0.4rem;
+  color: #5c534c;
+}
+
+ul {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+
+li {
+  padding: 0.85rem 0;
+  border-top: 1px solid #ddd6cc;
+  font-size: 1.25rem;
+}
+
+.erro {
+  color: #9b2c2c;
+}
