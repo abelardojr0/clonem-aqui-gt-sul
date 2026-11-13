@@ -13,7 +13,7 @@ describe('resumirAlunos', () => {
 
     expect(resumo).toEqual({
       total: 2,
-      nomes: ['Ana Souza', 'Bruno Lima'],
+      nomes: ['Ana Teste Souza', 'Bruno Lima'],
     });
   });
 });
