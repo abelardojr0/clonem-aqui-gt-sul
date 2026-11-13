@@ -7,7 +7,7 @@ describe('resumirAlunos', () => {
 
   it('conta e devolve os nomes na mesma ordem', () => {
     const resumo = resumirAlunos([
-      { id: 1, nome: 'Ana Souza' },
+      { id: 1, nome: 'Ana Teste Souza' },
       { id: 2, nome: 'Bruno Lima' },
     ]);
 
